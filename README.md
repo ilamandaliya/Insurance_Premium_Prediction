@@ -2,7 +2,7 @@
 
 ML MODEL DEPLOYMENT USING HEROKU
 
-link : https://medicalpremiumpredict.herokuapp.com/
+link : https://medicalinsurance14.herokuapp.com/
 
 Problem Statement :
 
